@@ -50,17 +50,4 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 ---
 
-## ⭐ Progress
-
-| Topic | Solved |
-|--------|--------|
-| Arrays | 0 |
-| Strings | 0 |
-| Linked List | 0 |
-| Trees | 0 |
-| Graph | 0 |
-| DP | 0 |
-
----
-
 Happy Coding! 🚀
